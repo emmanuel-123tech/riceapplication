@@ -1,0 +1,8 @@
+Model: UltimateSpecialist
+Backbone: convnext_small.fb_in22k_ft_in1k_384
+Source: UNIDO AfricaRice Quality Assessment Challenge
+Placement: 3rd Place Solution
+Input: 48 tiles (8x6 grid), 512x512 each
+Outputs: 9 counts + 6 measures
+Version: v1.0-mobile-onnx
+Exported: 2024-02-25

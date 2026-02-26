@@ -1,1 +1,1 @@
-# riceapplication
+# riceapp
